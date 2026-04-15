@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Bharanitharan Selvarasu</h1>
-<h3 align="center">🚀 ECE Engineer | PCB Designer </h3>
+<h3 align="center">🚀 ECE Student | Java Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
-    size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=ECE+Engineer;PCB+Designer;Software +Developer;Hackathon+Participate" />
+    size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=ECE+Student;Java+Developer;AI+Enthusiast;Problem+Solver" />
 </p>
 
 ---
@@ -16,87 +16,71 @@
 
 ## 🧠 About Me  
 
-🚀 Building **real-world AI systems** that solve impactful problems  
-🤖 Specialized in **LLMs, NLP, and RAG architectures**  
-🏆 Hackathon Winner | **TN-iMPACT Top 5 Finalist**  
-☁️ Working with **AWS & Google Cloud**  
-💡 Founder @ **Axentus Software & Services**  
+🎓 Pursuing **B.E. in Electronics and Communication Engineering**  
+💻 Skilled in **Java, C, C++, Data Structures**  
+🤖 Interested in **AI, Chatbots & Smart Systems**  
+🔧 Built projects like **Automatic Water Level Controller & Fingerprint Ignition System**  
+🎯 Goal: To work in a **Core ECE / Software Company**  
 
 ---
 
 ## ⚡ Tech Stack  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,mysql,aws,gcp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,git,github,vscode" />
 </p>
 
 ---
 
-## 🧪 AI Expertise  
+## 🚀 Projects  
 
-<p align="center">
-🧠 Machine Learning • NLP • LLMs • Prompt Engineering • RAG • Data Analytics  
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🤖 AI Chatbot (LLM + NLP)  
-✔ Automated hostel management system  
-✔ Real-time intelligent response system  
-✔ Cloud deployment  
+### 💰 AI Budget Planner  
+✔ Analyzes income and spending  
+✔ Generates budget & savings plans  
+✔ Simple AI-based financial assistant  
 
 ---
 
-### 🌾 AgriTrace TN  
-✔ Blockchain-based agricultural supply chain  
-✔ QR traceability system  
-🏆 **4th Place — TN-iMPACT (1000+ participants, 410+ teams)**  
+### 🛒 Supermarket Billing System (Java)  
+✔ Handles billing, inventory & reports  
+✔ Supports multiple transactions  
+✔ Real-time stock management  
 
 ---
 
-### 🏙️ Smart Infrastructure System  
-✔ AI + IoT monitoring  
-✔ Predictive alert system  
-✔ Real-time analytics dashboard  
+### ❓ Quiz Application (Java)  
+✔ Interactive quiz system  
+✔ Score calculation & feedback  
+✔ User-friendly interface  
 
 ---
 
-### 🚦 Signet  
-✔ Smart traffic system using ML + IoT  
-✔ Emergency vehicle prioritization  
+### 🔐 Fingerprint-Based Two Wheeler Ignition  
+✔ Biometric security system  
+✔ Prevents unauthorized access  
+✔ Embedded system project  
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackdaisy2026-commits&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blackdaisy2026-commits&theme=tokyonight&hide_border=true" />
-</p>
+### 💧 Automatic Water Level Controller  
+✔ Controls water tank levels  
+✔ Saves water & electricity  
+✔ Sensor-based automation  
 
 ---
 
 ## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blackdaisy2026-commits&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackdaisy2026-commits&theme=tokyo-night&hide_border=true" />
-</p>
+🏅 Paper Presentation  
+📜 NPTEL Certification  
+💻 Codetrate Course Certificate  
 
 ---
 
-## 🐍 Contribution Snake Animation  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blackdaisy2026-commits/blackdaisy2026-commits/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blackdaisy2026-commits&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -104,35 +88,23 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dharshan-hariharan-a51277290">
+<a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://dharshan-hariharan.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="mailto:dharshanhariharan2468@gmail.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
 ---
 
-## 🧠 Quote of the Day  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Fun Fact  
 
-💡 I don’t just write code — I build **intelligent systems that think**
+💡 I love building **real-world projects using electronics and software**
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star!
+  ⭐ If you like my work, give a star!
 </p>

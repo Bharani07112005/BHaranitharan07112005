@@ -2,7 +2,8 @@
 <h3 align="center">🚀 ECE Engineer | PCB Designer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=ECE+Engineer;PCB+Designer;Software +Developer;Hackathon+Participate" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+    size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=ECE+Engineer;PCB+Designer;Software +Developer;Hackathon+Participate" />
 </p>
 
 ---

@@ -72,7 +72,6 @@
 ## 🏆 Achievements & Certifications  
 
 🏅 Paper Presentation  
-📜 NPTEL Certification  
 💻 Codetrate Course Certificate  
 🎓 **Altium Designer Certification (PCB Design)**  
 ☁️ **Microsoft Azure AI-900 Certification**  
